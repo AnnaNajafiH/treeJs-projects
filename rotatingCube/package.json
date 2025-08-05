@@ -1,0 +1,13 @@
+{
+  "name": "threejs-rotating-cube",
+  "version": "1.0.0",
+  "description": "A simple Three.js project with a rotating cube",
+  "main": "main.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "three": "^0.158.0",
+    "serve": "^14.2.1"
+  }
+}
