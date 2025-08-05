@@ -2,7 +2,7 @@
 
 A simple Three.js project that displays a rotating 3D cube in the browser.
 
-![Rotating Cube Demo](https://threejs.org/manual/resources/images/threejs-1cube-001.png)
+![Rotating Cube Demo](./images/rotating-cube.jpg)
 
 ## Project Overview
 
